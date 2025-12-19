@@ -74,9 +74,13 @@ cd clueso-clone
 
 cd backend
 npm install
+
 Create a .env file using .env.example:
+
 PORT=3000
+
 MONGODB_URL=your_mongodb_connection_string
+
 JWT_SECRET=your_jwt_secret
 Start backend:
 
